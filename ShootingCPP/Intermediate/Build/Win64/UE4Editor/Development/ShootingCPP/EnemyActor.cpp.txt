@@ -1,0 +1,10 @@
+C:\Users\ar08\Documents\GitHub\CppShoot\ShootingCPP\Intermediate\Build\Win64\UE4Editor\Development\ShootingCPP\Definitions.ShootingCPP.h
+C:\Users\ar08\Documents\GitHub\CppShoot\ShootingCPP\Source\ShootingCPP\Public\EnemyActor.h
+C:\Users\ar08\Documents\GitHub\CppShoot\ShootingCPP\Intermediate\Build\Win64\UE4Editor\Inc\ShootingCPP\EnemyActor.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Public\EngineUtils.h
+C:\Users\ar08\Documents\GitHub\CppShoot\ShootingCPP\Source\ShootingCPP\Public\PlayerPawn.h
+C:\Users\ar08\Documents\GitHub\CppShoot\ShootingCPP\Intermediate\Build\Win64\UE4Editor\Inc\ShootingCPP\PlayerPawn.generated.h

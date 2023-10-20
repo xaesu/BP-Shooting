@@ -1,0 +1,3 @@
+C:\Users\ar08\Documents\GitHub\CppShoot\ShootingCPP\Intermediate\Build\Win64\UE4Editor\Development\ShootingCPP\Definitions.ShootingCPP.h
+C:\Users\ar08\Documents\GitHub\CppShoot\ShootingCPP\Source\ShootingCPP\Public\CodingTestActor.h
+C:\Users\ar08\Documents\GitHub\CppShoot\ShootingCPP\Intermediate\Build\Win64\UE4Editor\Inc\ShootingCPP\CodingTestActor.generated.h

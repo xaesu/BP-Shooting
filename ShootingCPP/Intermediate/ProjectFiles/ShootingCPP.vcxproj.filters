@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ShootingCPP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{29977B8D-A899-4223-B4CD-603DC752CB3E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ShootingCPP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ShootingCPPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{68ABB4E5-BBEA-4AA3-8F76-7A0C380B85E4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ShootingCPP">
+      <UniqueIdentifier>{C37B244E-D5B4-4B82-9531-B3FAB0B9AEF8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ShootingCPP\ShootingCPP.Build.cs">
+      <Filter>Source\ShootingCPP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ShootingCPP\ShootingCPP.cpp">
+      <Filter>Source\ShootingCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShootingCPP\ShootingCPP.h">
+      <Filter>Source\ShootingCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ShootingCPP\ShootingCPPGameModeBase.cpp">
+      <Filter>Source\ShootingCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ShootingCPP\ShootingCPPGameModeBase.h">
+      <Filter>Source\ShootingCPP</Filter>
+    </ClInclude>
+    <Filter Include="Source\ShootingCPP\Private">
+      <UniqueIdentifier>{9A982DF5-591C-4410-87D4-B27E8CC620A0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ShootingCPP\Private\Bullet.cpp">
+      <Filter>Source\ShootingCPP\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ShootingCPP\Private\CodingTestActor.cpp">
+      <Filter>Source\ShootingCPP\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ShootingCPP\Private\EnemyActor.cpp">
+      <Filter>Source\ShootingCPP\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ShootingCPP\Private\EnemyFactory.cpp">
+      <Filter>Source\ShootingCPP\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ShootingCPP\Private\PlayerPawn.cpp">
+      <Filter>Source\ShootingCPP\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ShootingCPP\Private\ShootingGameModeBase.cpp">
+      <Filter>Source\ShootingCPP\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\ShootingCPP\Public">
+      <UniqueIdentifier>{0F539ABC-B9CC-49EE-96B5-6F09D67A9BB4}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\ShootingCPP\Public\Bullet.h">
+      <Filter>Source\ShootingCPP\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ShootingCPP\Public\CodingTestActor.h">
+      <Filter>Source\ShootingCPP\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ShootingCPP\Public\EnemyActor.h">
+      <Filter>Source\ShootingCPP\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ShootingCPP\Public\EnemyFactory.h">
+      <Filter>Source\ShootingCPP\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ShootingCPP\Public\PlayerPawn.h">
+      <Filter>Source\ShootingCPP\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ShootingCPP\Public\ShootingGameModeBase.h">
+      <Filter>Source\ShootingCPP\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

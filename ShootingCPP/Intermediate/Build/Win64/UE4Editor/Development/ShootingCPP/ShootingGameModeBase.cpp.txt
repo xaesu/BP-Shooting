@@ -1,0 +1,7 @@
+C:\Users\ar08\Documents\GitHub\CppShoot\ShootingCPP\Intermediate\Build\Win64\UE4Editor\Development\ShootingCPP\Definitions.ShootingCPP.h
+C:\Users\ar08\Documents\GitHub\CppShoot\ShootingCPP\Source\ShootingCPP\Public\ShootingGameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\ar08\Documents\GitHub\CppShoot\ShootingCPP\Intermediate\Build\Win64\UE4Editor\Inc\ShootingCPP\ShootingGameModeBase.generated.h

@@ -1,0 +1,17 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\ar08\Documents\GitHub\CppShoot).
+  Parsing headers for ShootingCPPEditor
+    Running UnrealHeaderTool "C:\Users\ar08\Documents\GitHub\CppShoot\ShootingCPP\ShootingCPP.uproject" "C:\Users\ar08\Documents\GitHub\CppShoot\ShootingCPP\Intermediate\Build\Win64\ShootingCPPEditor\Development\ShootingCPPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\ar08\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for ShootingCPPEditor in 4.7025895 seconds
+  Building ShootingCPPEditor...
+  Using Visual Studio 2019 14.29.30151 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 5 actions with 20 processes...
+    [1/5] EnemyFactory.cpp
+    [2/5] EnemyFactory.gen.cpp
+    [3/5] UE4Editor-ShootingCPP-0042.lib
+       Creating library C:\Users\ar08\Documents\GitHub\CppShoot\ShootingCPP\Intermediate\Build\Win64\UE4Editor\Development\ShootingCPP\UE4Editor-ShootingCPP-0042.lib and object C:\Users\ar08\Documents\GitHub\CppShoot\ShootingCPP\Intermediate\Build\Win64\UE4Editor\Development\ShootingCPP\UE4Editor-ShootingCPP-0042.exp
+    [4/5] UE4Editor-ShootingCPP-0042.dll
+       Creating library C:\Users\ar08\Documents\GitHub\CppShoot\ShootingCPP\Intermediate\Build\Win64\UE4Editor\Development\ShootingCPP\UE4Editor-ShootingCPP-0042.suppressed.lib and object C:\Users\ar08\Documents\GitHub\CppShoot\ShootingCPP\Intermediate\Build\Win64\UE4Editor\Development\ShootingCPP\UE4Editor-ShootingCPP-0042.suppressed.exp
+    [5/5] ShootingCPPEditor.target
+  Total time in Parallel executor: 2.48 seconds
+  Total execution time: 7.94 seconds
